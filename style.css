@@ -6,10 +6,11 @@ body {
   margin: 0px;
   padding: 0px;
   background-image: url('imagens/eu\ e\ calepsiano.jpg');
+  background-size: 500px;
   background-position: center;
   background-repeat: repeat;
-  height: 40%;
-  width: 80%;
+  height: auto;
+  width: auto;
   font-family: 'Segoe UI', sans-serif;
   display: flex;
   justify-content: center;
